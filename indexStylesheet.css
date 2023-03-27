@@ -5,4 +5,9 @@ h1 {
 .LoginForm {
     align-items: center;
     text-align: center;
+    background-color: darkblue;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px
 }
