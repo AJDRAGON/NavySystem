@@ -1,6 +1,6 @@
 
 body {
-    background-image: url(pexels-stephan-seeber-1054218.jpg);
+    background-image: "url(pexels-stephan-seeber-1054218.jpg)";
     background-repeat: no-repeat;
     background-position: center center;
 }
